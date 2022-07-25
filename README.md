@@ -40,8 +40,8 @@ When you launch the game, you are layering these files on top of each other.  In
     - ``TNT.WAD``
 - Put these files in the ``IWAD`` folder.
 - Download the music files (over Github size limit):
-    - Download [file](https://www.doomworld.com/idgames/music/dars_dm) to ``Mods/DAR's Covers.wad``.
-    - Download [file](https://www.mediafire.com/file/wxese22seoovb0d/DAR%2527s_TNT_Marathon.7z/file) to ``Mods/DAR's Covers TNT.wad``.
+    - Download [file](https://www.doomworld.com/idgames/music/dars_dm) to ``Mods/Music/DAR's Covers.wad``.
+    - Download [file](https://www.mediafire.com/file/wxese22seoovb0d/DAR%2527s_TNT_Marathon.7z/file) to ``Mods/Music/DAR's Covers TNT.wad``.
 - Prepare your launch aliases.
 
 I play on a Linux machine and use the following ``~/.bashrc`` aliases to launch the games from command line:
@@ -74,4 +74,5 @@ Final tip, I find running on the Vulkan video renderer works better than OpenGL 
 - Brutal Doom - by Mark IV
 - ZMovement - by Ivory
 - Motion Blur - by PixelEater
+- War Trophies - by Tapwave
 - DAR's Covers - by DAR
