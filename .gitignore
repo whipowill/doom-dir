@@ -1,0 +1,4 @@
+reset.sh
+IWADs/*.WAD
+Mods/Music/*.wad
+autoexec.cfg
