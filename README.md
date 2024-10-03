@@ -10,7 +10,7 @@ So, I will give you the links instead.  These are the mods I consider "the best"
 
 ## Files
 
-The file structure here is to put the original game WAD files in ``IWAD``, and to put all the mods and custom campaigns in the ``PWAD`` folder, with nested subfolders for the IWAD they are built for.
+The file structure here is to put the original game WAD files in the ``IWAD/`` folder, and to put all the mods and custom campaigns in the ``PWAD/`` folder, with nested subfolders for the IWAD they are built for.
 
 - IWAD
     - ``DOOM.WAD``
@@ -36,7 +36,9 @@ The file structure here is to put the original game WAD files in ``IWAD``, and t
         - [TNT Revilution](https://www.doomworld.com/idgames/levels/doom2/megawads/tntr) (maps)
         - [Dar's DOOMTNT Marathon.wad](https://mega.nz/file/sLETlJhI#D8XBqy2UlPic37EGgvpAklGJX3QctmC5pcwCnMEC3aE) (music)
 
-The trick here is knowing which mods you can stack w/ other mods.  Basically, if I didn't put a note, you can stack that mod with others.  Map mods should not be stacked w/ other map mods.
+The trick here is knowing which mods you can stack w/ other mods.  Basically, if I didn't put a note, you can stack that mod with others.
+
+Map mods should not be stacked w/ other map mods.  Note that map mods are optional, w/out them the game will play the original maps.
 
 ## Launcher
 
