@@ -34,11 +34,11 @@ The file structure here is to put the original game WAD files in the ``IWAD/`` f
     - TNT
         - [Brutal DOOM v21](https://www.moddb.com/mods/brutal-doom/downloads) (weapons)
         - [TNT Revilution (AE)](https://forum.zdoom.org/viewtopic.php?t=66837&sid=ca2ce47d125b5654a3346ba9ab9e29b0) (maps)
-        - [DAR's DOOMTNT Marathon.wad](https://mega.nz/file/sLETlJhI#D8XBqy2UlPic37EGgvpAklGJX3QctmC5pcwCnMEC3aE) (music)
+        - [DAR's TNT Marathon.wad](https://mega.nz/file/sLETlJhI#D8XBqy2UlPic37EGgvpAklGJX3QctmC5pcwCnMEC3aE) (music)
 
 The trick here is knowing which mods you can stack w/ other mods.  Basically, if I didn't put a note, you can stack that mod with others. Map mods should not be stacked w/ other map mods.  Note that map mods are optional, w/out them the game will play the original maps.
 
-Some of these map wads I have in here are so-called "Autoload Edition".  I'm not totally clear on what this means but I was having compatibility issues w/ Brutal DOOM 64 and this vesion seemed to fix it.
+Some of these map wads I have in here are so-called "Autoload Edition".  I'm not totally clear on what this means but I was having compatibility issues w/ Brutal DOOM on D64D2 maps and the AE version seemed to fix it.
 
 ## Launcher
 
