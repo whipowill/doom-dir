@@ -8,6 +8,10 @@ On my computer this repo is full of WAD files, but they are so large I can't upl
 
 So, I will give you the links instead.  These are the mods I consider "the best".
 
+## Launcher
+
+Be sure to checkout my shell script [DOOM Launcher](https://github.com/whipowill/sh-doom-launcher) which uses this directory structure to manage your mods and launch your games.
+
 ## Files
 
 The file structure here is to put the original game WAD files in the ``IWAD/`` folder, and to put all the mods and custom campaigns in the ``PWAD/`` folder, with nested subfolders for the IWAD they are built for.
@@ -36,11 +40,13 @@ The file structure here is to put the original game WAD files in the ``IWAD/`` f
         - [TNT Revilution](https://www.doomworld.com/idgames/levels/doom2/megawads/tntr) (maps)
         - [DAR's TNT Marathon](https://mega.nz/file/sLETlJhI#D8XBqy2UlPic37EGgvpAklGJX3QctmC5pcwCnMEC3aE) (music)
 
-The trick here is knowing which mods you can stack w/ other mods.  Basically, if I didn't put a note, you can stack that mod with others. Map mods should not be stacked w/ other map mods.  Note that map mods are optional, w/out them the game will play the original maps.
+The trick is knowing which mods you can stack w/ other mods. Basically, if I didn't put a note, you can stack that mod with others.
 
-## Launcher
+The sequence of layering is important.  You pretty much always want Brutal DOOM first, the map mod you're playing second, and the music last.
 
-Be sure to checkout my shell script [DOOM Launcher](https://github.com/whipowill/sh-doom-launcher) which uses this directory structure to manage your mods and launch your games.
+Map mods should not be stacked w/ other map mods.  Note that map mods are optional, w/out them the game will play the original maps.
+
+The complete overhauls (Brutal DOOM64 and Brutal Wolfenstein) should be run by themselves.
 
 ## Notes
 
